@@ -1,1 +1,1 @@
-1
+将.hic文件转换成适合CscoreTool输入的HiCsummary 文件格式
