@@ -26,9 +26,9 @@ From hic data to chromosome 3D dynamic models
 *   **CscoreTool**: 用于 Hi-C 数据 A/B 区室分析的工具。 [10]
     *   **许可证**: 未明确指定 (请参考仓库说明或联系作者)
     *   **GitHub**: [scoutzxb/CscoreTool](https://github.com/scoutzxb/CscoreTool)
-    *   **引用**: 请引用其 GitHub 仓库链接或相关出版物。
+    *   **引用**: Zheng, X., & Zheng, Y. (2018). CscoreTool: fast Hi-C compartment analysis at high resolution. *Bioinformatics*, *34*(9), 1568–1570. 
 
 *   **EVR (Error-Vector Resultant)**: 用于从互作数据中进行染色质三维结构重建的工具。
     *   **许可证**: MIT License
     *   **GitHub**: [mbglab/EVR](https://github.com/mbglab/EVR)
-    *   **引用**: 请引用其 GitHub 仓库链接或相关出版物。
+    *   **引用**:  Hua, K.-J., & Ma, B.-G. (2019). EVR: reconstruction of bacterial chromosome 3D structure models using error-vector resultant algorithm. *BMC Genomics*, *20*(1), 738.
